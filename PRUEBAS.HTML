@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cems Technology</title>
+
+<link rel="stylesheet" href="style2.css">
+
+
+<header class="header">
+
+    <div class="menu container">
+
+        <!-- LOGO -->
+        <div class="logo-container">
+            <img src="Logo Cems.jpeg" height="40" class="logo-img">
+            <a href="#" class="logo">Cems Technology</a>
+        </div>
+
+        <!-- MENÚ -->
+        <nav class="navbar">
+            <ul>
+                <li><a href="corte 1.html">CORTE I</a></li>
+                <li><a href="corte 2.html">CORTE II</a></li>
+            </ul>
+        </nav>
+
+    </div>
+
+    <div class="header-content container">
+        <div class="header-info">
+
+            <h1> Bienvenido a Cems Technology</h1>
+            <p>Innovación, tecnología y desarrollo </p>
+            <p> Todo a tu alcance!</p>
+
+            <!-- BOTÓN INFO -->
+
+            <button class="btn-1" onclick="mostrarInfo()">Información</button>
+
+            <div id="info" class="info-box">
+
+                <h3>Más de Nosotros</h3>
+                <p>Somos un equipo enfocado en soluciones tecnológicas industriales modernas.</p>
+
+                <div class="personas">
+
+                    <div class="persona">
+                        <h4>Estiven</h4>
+                        <img src="Estiven.jpg">
+                    </div>
+
+                    <div class="persona">
+                        <h4>Carlos Rueda</h4>
+                        <img src="Carlos.jpg">
+                    </div>
+
+                    <div class="persona">
+                        <h4>Sebastián Ortiz</h4>
+                        <img src="Sebastian.jpg">
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</header>
+
+<script>
+function mostrarInfo() {
+    var caja = document.getElementById("info");
+
+    if (caja.style.display === "none" || caja.style.display === "") {
+        caja.style.display = "block";
+    } else {
+        caja.style.display = "none";
+    }
+}
+</script>
+
+</body>
+</html>
