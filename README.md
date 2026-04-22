@@ -1,4 +1,4 @@
-# [Cems Technology] - Proyecto Integrador
+# Cems Technology - Proyecto Integrador
 > Una banda transportadora automatizada: Tiene el fin de reducir tiempos de espera y cuellos de botella
 
 ## 🎓 Información Académica
