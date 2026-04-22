@@ -12,9 +12,9 @@
 ## 👥 Integrantes
 | Nombre Completo | Rol en el Proyecto | Usuario GitLab |
 | :--- | :--- | :--- |
-| Estiven Ortiz   | Líder           |  |
-| Sebastian Ortiz |    | @usuario2 |
-| Carlos Rueda    |    | @usuario2 |
+| Estiven Ortiz   | Líder/ Programador  |  |
+| Sebastian Ortiz | Programador        | @usuario2 |
+| Carlos Rueda    | Programador         | @usuario2 |
 
 ---
 
