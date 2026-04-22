@@ -1,19 +1,20 @@
 # [Cems Technology] - Proyecto Integrador
-> [Breve descripción de una frase: qué hace el proyecto y qué problema resuelve]
+> Una banda transportadora automatizada: Tiene el fin de reducir tiempos de espera y cuellos de botella
 
 ## 🎓 Información Académica
-* **Institución:** [Nombre de la Institución]
-* **Programa:** Tecnología en Desarrollo de Software
-* **Semestre:** [Número de Semestre]
-* **Asignatura:** [Nombre de la Materia]
+* **Institución:** Universidad San Buenaventura
+* **Programa:** Tecnología en Automatización Industrial
+* **Semestre:** Primer Semestre
+* **Asignatura:** Era Digital
 
 ---
 
 ## 👥 Integrantes
 | Nombre Completo | Rol en el Proyecto | Usuario GitLab |
 | :--- | :--- | :--- |
-| Estudiante 1 | Líder / Backend | @usuario1 |
-| Estudiante 2 | Frontend / UX | @usuario2 |
+| Estiven Ortiz   | Líder           |  |
+| Sebastian Ortiz |    | @usuario2 |
+| Carlos Rueda    |    | @usuario2 |
 
 ---
 
