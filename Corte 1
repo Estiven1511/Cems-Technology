@@ -1,0 +1,107 @@
+
+</body>
+
+</html>
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <link rel="stylesheet" href="style2.css">
+</head>
+
+<body>
+
+    <header class="header">
+
+        <div class="header-content container">
+            <div class="header-info">
+                <h1>CORTE 1</h1>
+                <p>El sowftware para optimizar las fabricas </p>
+            </div>
+        </div>
+
+    </header>
+
+    <main>
+
+        <section class="container intro">
+            <h2>Programación, circuitos e implementación web</h2>
+            <p>
+                La programación y circuitos son fundamentales y primordiales en este tecnologo de automatización, ya que permiten controlar y optimizar los procesos de las bandas transportadoras
+                con el fin de tener mejores resultados. La programación se utiliza para desarrollar software que gestiona y supervisa las operaciones de las máquinas y sistemas;
+                mientras que los circuitos electrónicos son esenciales para la comunicación y el control de los dispositivos. 
+                Juntos, estos elementos contribuyen a mejorar la eficiencia, la precisión y la seguridad en las fábricas, permitiendo una producción más rápida y de mayor calidad.
+
+            </p>
+        </section>
+
+
+        <section class="cortes container">
+
+            <div class="corte1">
+                <h2>Lenguajes de Programación</h2>
+                <p>
+                    Existen diferentes lenguajes de programación pero los vistos en clase son:
+                </p>
+                <ul>
+                    <li>Lenguaje Python</li>
+                    <li>Lenguaje HTML</li>
+                </ul>
+            </div>
+
+            <div class="Tiposdecodigos">
+                <img src="Lenguaje Python.jpg" alt="Lenguaje Python">
+                <img src="Lenguaje de HTML.jpg" alt="Lenguaje HTML">
+            </div>
+
+        </section>
+
+        <section class="cortes container">
+
+            <div class="Tiposdecodigos">
+                <img src="Tuplas,Diccionarios.jpg" alt="Tuplas y Diccionarios">
+                <img src="Input,Print.jpg" alt="Input y Print">
+            </div>
+
+            <div class="corte1">
+                <h2>Tipos de codigos</h2>
+                <p>
+                    Codigos vistos en clase de programación:
+                </p>
+                <ul>
+                    <li>Input</li>
+                    <li>Lista,Tuplas,Diccionarios</li>
+                    <li>print</li>
+                </ul>
+            </div>
+
+        </section>
+
+        <section class="cortes container">
+
+            <div class="corte1">
+                <h2>Tipos de Circuitos</h2>
+                <p>La parte electrica mas siendo exactos los circuitos son fundamentales para el funcionamiento de cualquier dispositivo, maquina, proceso, entre otros.
+                   Este nos indica el flujo de energía y señales necesarias para su operación. Tambien se nos ha indicado partes u objetos que se encuentran en los circuitos como lo son:
+                    resistencias, voltajes, corrientes, entre otros.
+
+                </p>
+            </div>
+
+            <div class="Tiposdecodigos">
+                <img src="Circuito Serie.jpg" alt="Circuito en Serie">
+                <img src="Circuito Paralelo.jpg" alt="Circuito en Paralelo">
+            </div>
+
+
+        <section class="cortes container">
+        
+            <div class="corte1">
+                <h2> Digitalización del proyecto en la Web </h2>
+                <p>Se implementa el uso de "Vs code" con el fin de evidenciar el proceso del proyecto y los aprendiazajes vistos en cada materia por cada corte del semestre; Todo esto
+                    demuestra el avance del proyecto y los conocimientos adquiridos. 
+                </p>
+            </div>
+        </section>
+    </main>
+</body>
